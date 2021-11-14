@@ -14,7 +14,7 @@
 #myUL {
   /* Remove default list styling */
   list-style-type: none;
-  padding: 100px 20px 12px 40px;
+  padding: 10px 20px 12px 40px;
   margin: 25px;
 }
 
@@ -33,35 +33,52 @@
   background-color: #eee; /* Add a hover effect to all links, except for headers */
 }
 
-
+/* id = #, class = . *.
 /* id's and classes for HTML designing */
 body {
-	background-color: #8FBC8F;
-	font-family: "Times New Roman", serif;
+  background-color: #8FBC8F;
+  font-family: "Times New Roman", serif;
 }
 
+/* id's are usually only used once */
 #header {
-	background-color:beige;
-	color:coral;
-	padding:30px;
-	text-align:center;
-	font-family:"Times New Roman";
+  background-color:beige;
+  color:coral;
+  padding:30px;
+  text-align:center;
+  font-family:"Times New Roman";
   border:5px solid crimson;
   font-size: 75px;
 }
 
 .headertext {
-	background-color:lightpink;
-	color:black;
-	padding:15px;
-	font-family:"Times New Roman";
+  background-color:lightpink;
+  color:black;
+  padding:15px;
+  font-family:"Times New Roman";
   font-size: 30px;
 }
 
 .titleHeader {
-	padding: 10px;
-	text-align: center;
-	font-size: 50px;
-	font-family: "Times New Roman", serif;
+  padding: 10px;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Times New Roman", serif;
 }
 
+/* for mission statement */
+#mission {
+  background-color:beige;
+  color:black;
+  padding:30px;
+  text-align:center;
+  font-family:"Times New Roman";
+  border:5px solid crimson;
+  font-size: 45px;
+}
+
+/* makes gap smaller for hyperlinks */
+.hyperlinks {
+  font-size: 30px;
+  padding:45px;
+}
