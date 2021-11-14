@@ -1,4 +1,4 @@
-S# Team: BobTheCoders
+# Team: BobTheCoders
 ### Team Members:
 - [Joshua Leonard](https://github.com/23JoshuaL)
 - [Emmanuel deLeon](https://github.com/emaaaaan)
